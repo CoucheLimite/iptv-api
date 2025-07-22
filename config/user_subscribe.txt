@@ -20,3 +20,4 @@ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://m3u.ibert.me/fmml_itv.m3u
 https://m3u.ibert.me/y_g.m3u
 https://m3u.ibert.me/o_cn.m3u
+https://epg.pw/test_channels.m3u
